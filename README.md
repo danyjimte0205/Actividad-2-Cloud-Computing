@@ -1,1 +1,1 @@
-# Cloud Computing: Actividad 2
+# Cloud Computing - Actividad 2: Bankrupcy Prediction
