@@ -32,7 +32,7 @@ git clone https://github.com/danyjimte0205/Actividad-2-Cloud-Computing.git
 cd Actividad-2-Cloud-Computing
 ```
 
-### 2. Instala las dependencias
+### 2. Instalar las dependencias
 
 ```bash
 pip install -r requirements.txt
