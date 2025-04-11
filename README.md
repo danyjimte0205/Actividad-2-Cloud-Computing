@@ -5,6 +5,7 @@ Este repositorio fue creado como parte de la clase de Computación en la Nube. E
 ## Requisitos
 
 - Python 3.10 o superior
+- Librerías definidas en \requierements.txt
 - Acceso a Azure para el despliegue
 
 ## Datos utilizados
