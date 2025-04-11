@@ -1,6 +1,6 @@
 # Cloud Computing - Actividad 2: Bankrupcy Prediction
 
-Este repositorio fue creado como parte de la clase de Computación en la Nube. El proyecto fue realizado por los equipos de Datos, Modelos y Cómputo en la Nube como parte de la actividad de la clase. El objetivo de la actividad es construir un servicio de predicción de bancarrota utilizando modelos de Machine Learning, para después desplegarlo como una API funcional en Microsoft Azure.
+Este repositorio fue creado como parte de la clase de Cómputo en la Nube. El proyecto fue realizado por los equipos de Datos, Modelos y Cómputo en la Nube como parte de la actividad de la clase. El objetivo de la actividad es construir un servicio de predicción de bancarrota utilizando modelos de Machine Learning, para después desplegarlo como una API funcional en Microsoft Azure.
 
 ## Requisitos
 
