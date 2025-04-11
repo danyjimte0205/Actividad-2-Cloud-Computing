@@ -25,4 +25,17 @@ data = pd.read_csv(path + "/data.csv")
 
 ## Instrucciones de uso
 
+### 1. Clonar el repositorio
 
+```bash
+git clone https://github.com/danyjimte0205/Actividad-2-Cloud-Computing.git
+cd Actividad-2-Cloud-Computing
+```
+
+### 2. Instala las dependencias
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. 
