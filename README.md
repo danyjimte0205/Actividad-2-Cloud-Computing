@@ -1,1 +1,1 @@
-# Actividad-2-Cloud-Computing
+# Cloud COmputing: Actividad 2
