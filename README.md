@@ -6,4 +6,16 @@ Este repositorio fue creado como parte de la clase de Computación en la Nube. E
 
 - **Fuente:** Kaggle – [Company Bankruptcy Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction)
 
+Para descargar los datos:
+
+```python
+import kagglehub
+import pandas as pd
+
+path = kagglehub.dataset_download("fedesoriano/company-bankruptcy-prediction")
+data = pd.read_csv(path + "/data.csv")
+
+```
+
+
 ## Instrucciones de uso
