@@ -59,4 +59,4 @@ Para entrenar el modelo se necesita ejecutar el notebook `Model.ipynb` con los d
 
  ### 6. Uso de la API para hacer inferencias
 
-Correr el notebook `API.ipynb`. Este archivo carga los datos de prueba (ya procesados) y los envía a la nube para recibir predicciones.
+Correr el notebook `API.ipynb`. Este archivo carga los datos de prueba y los envía a la nube para recibir predicciones.
