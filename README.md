@@ -56,3 +56,7 @@ Para entrenar el modelo se necesita ejecutar el notebook `Model.ipynb` con los d
 ### 5. Desplegar el modelo en Azure
 
  Correr el notebook `Deployer.ipynb`. Este archivo contiene el flujo de despliegue para convertir el modelo entrenado en un servicio web accesible a través de Azure.
+
+ ### Uso de la API para hacer inferencias
+
+Correr el notebook `API.ipynb`. Este archivo carga los datos de prueba (ya procesados) y los envía a la nube para recibir predicciones.
