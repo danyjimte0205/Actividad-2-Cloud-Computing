@@ -47,4 +47,8 @@ from zorrouno import processor
 df_procesado = processor.embbed(mi_dataframe)
 ```
 
-Este script elimina columnas no necesarias para el modelo (como `Bankrupt?`) y normaliza las columnas.
+Este script elimina columnas no numéricas o no necesarias para el modelo, conserva todas las features financieras, y estandariza los nombres de las columnas.
+
+### 4. Entrenamiento del modelo
+
+Para entrenar el modelo se necesita ejecutar el notebook `Model.ipynb` con los datos preprocesados. Esto generará el archivo de modelo listo para ser desplegado.
