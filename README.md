@@ -38,4 +38,13 @@ cd Actividad-2-Cloud-Computing
 pip install -r requirements.txt
 ```
 
-### 3. 
+### 3. Preprocesamiento de datos.
+
+Antes de entrenar o enviar datos a la API, se deben procesar con el script `zorrouno.py`:
+
+```python
+from zorrouno import processor
+df_procesado = processor.embbed(mi_dataframe)
+```
+
+Este script elimina columnas no necesarias (como `Bankrupt?`) y normaliza los nombres de columnas.
