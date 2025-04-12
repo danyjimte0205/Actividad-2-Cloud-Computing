@@ -52,3 +52,7 @@ Este script elimina columnas no numéricas o no necesarias para el modelo, conse
 ### 4. Entrenamiento del modelo
 
 Para entrenar el modelo se necesita ejecutar el notebook `Model.ipynb` con los datos preprocesados. Esto generará el archivo de modelo listo para ser desplegado.
+
+### 5. Desplegar el modelo en Azure
+
+ Correr el notebook `Deployer.ipynb`. Este archivo contiene el flujo de despliegue para convertir el modelo entrenado en un servicio web accesible a través de Azure.
