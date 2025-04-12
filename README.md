@@ -44,7 +44,7 @@ Antes de entrenar o enviar datos a la API, se deben procesar con el script `zorr
 
 ```python
 from zorrouno import processor
-df_procesado = processor.embbed(mi_dataframe)
+df_procesado = processor.embbed(datos)
 ```
 
 Este script elimina columnas no numéricas o no necesarias para el modelo, conserva todas las features financieras, y estandariza los nombres de las columnas.
