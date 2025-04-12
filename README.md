@@ -47,4 +47,4 @@ from zorrouno import processor
 df_procesado = processor.embbed(mi_dataframe)
 ```
 
-Este script elimina columnas no necesarias (como `Bankrupt?`) y normaliza los nombres de columnas.
+Este script elimina columnas no necesarias para el modelo (como `Bankrupt?`) y normaliza las columnas.
